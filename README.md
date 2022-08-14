@@ -2,6 +2,13 @@
 
 ![](Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/archit-gupta-266767191/)
+
+**Skills**
+
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 <!--
 **logictalk/logictalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
