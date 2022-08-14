@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+![](Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 <!--
 **logictalk/logictalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
