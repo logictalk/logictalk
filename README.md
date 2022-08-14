@@ -3,12 +3,12 @@
 ![](Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 
+- 📫 How to reach me **architgupta596@gmail.com**
 
 ### **SKILL SECTION**
 ![](Blue%20White%20Colorful%20School%20Admission%20LinkedIn%20Banner.png)
 
 
-- 📫 How to reach me **architgupta596@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
