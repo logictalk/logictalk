@@ -4,12 +4,12 @@
 
 
 
-**SKILL SECTION**
+### **SKILL SECTION**
 ![](Blue%20White%20Colorful%20School%20Admission%20LinkedIn%20Banner.png)
 
 
 
-**PROFILE LINK**
+### **PROFILE LINK**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/archit-gupta-266767191/)
 
